@@ -53,15 +53,6 @@ This project analyzes time-series data related to solar energy generation and el
    jupyter notebook PROJECT1.ipynb
    ```
 
-## Repository Structure
-📂 TimeSeries-Analysis
- ├── 📁 Data               # Contains sample datasets (CSV, Excel, etc.)
- ├── 📁 Notebooks          # Jupyter Notebooks for analysis and modeling
- ├── 📄 README.md          # Project documentation
- ├── 📄 requirements.txt   # Dependencies for the project
- ├── 📄 PROJECT1.ipynb     # Main analysis notebook
- └── 📄 results_report.pdf # Summary of findings
-
 ## Contribution
 Feel free to contribute by:
 - Enhancing existing visualizations
